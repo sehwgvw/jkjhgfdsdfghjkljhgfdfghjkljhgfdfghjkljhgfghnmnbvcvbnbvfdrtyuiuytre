@@ -1,0 +1,695 @@
+2026-03-21 17:28:00,035 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 17:28:10,670 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 17:28:14,830 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 17:28:14,837 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 17:28:37,499 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 17:28:37,764 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 17:28:37,765 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 17:34:38,658 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 17:34:40,380 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 17:34:43,804 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 17:34:43,807 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 17:35:03,294 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 17:35:03,557 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 17:35:03,560 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 17:44:27,916 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 17:44:29,912 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 17:44:32,456 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 17:44:52,420 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 2s (attempt 1).
+2026-03-21 17:45:13,767 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 4s (attempt 2).
+2026-03-21 17:45:37,128 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 8s (attempt 3).
+2026-03-21 17:45:43,561 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 17:45:43,562 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 17:48:06,924 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 17:48:08,080 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 17:48:11,389 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 17:48:11,390 | INFO | controller | Bot API proxy enabled
+2026-03-21 17:48:17,032 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 17:48:17,034 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 17:48:17,313 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 17:48:18,907 | INFO | aiogram.event | Update id=322903159 is handled. Duration 1078 ms by bot id=8791498759
+2026-03-21 17:49:52,857 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 17:49:52,867 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 17:49:53,156 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 17:49:53,157 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 18:07:50,317 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 18:07:51,702 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 18:07:55,057 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 18:07:57,031 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 18:07:57,032 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 18:07:57,324 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 18:07:57,775 | INFO | aiogram.event | Update id=322903160 is not handled. Duration 15 ms by bot id=8791498759
+2026-03-21 18:07:59,725 | INFO | aiogram.event | Update id=322903161 is handled. Duration 1952 ms by bot id=8791498759
+2026-03-21 18:08:10,454 | INFO | aiogram.event | Update id=322903162 is handled. Duration 938 ms by bot id=8791498759
+2026-03-21 18:08:13,736 | INFO | aiogram.event | Update id=322903163 is handled. Duration 594 ms by bot id=8791498759
+2026-03-21 18:08:19,153 | INFO | aiogram.event | Update id=322903164 is handled. Duration 875 ms by bot id=8791498759
+2026-03-21 18:08:22,621 | INFO | aiogram.event | Update id=322903165 is handled. Duration 2156 ms by bot id=8791498759
+2026-03-21 18:08:37,550 | INFO | aiogram.event | Update id=322903166 is handled. Duration 328 ms by bot id=8791498759
+2026-03-21 18:08:41,884 | INFO | aiogram.event | Update id=322903167 is handled. Duration 890 ms by bot id=8791498759
+2026-03-21 18:09:10,887 | INFO | aiogram.event | Update id=322903168 is not handled. Duration 0 ms by bot id=8791498759
+2026-03-21 18:09:10,888 | ERROR | aiogram.event | Cause exception while process update id=322903168 by bot id=8791498759
+TypeError: main.<locals>.on_session_file() missing 1 required positional argument: 'bot_obj'
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: main.<locals>.on_session_file() missing 1 required positional argument: 'bot_obj'
+2026-03-21 18:09:30,320 | INFO | aiogram.event | Update id=322903169 is not handled. Duration 0 ms by bot id=8791498759
+2026-03-21 18:09:30,321 | ERROR | aiogram.event | Cause exception while process update id=322903169 by bot id=8791498759
+TypeError: main.<locals>.on_session_file() missing 1 required positional argument: 'bot_obj'
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+TypeError: main.<locals>.on_session_file() missing 1 required positional argument: 'bot_obj'
+2026-03-21 18:10:07,147 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 18:10:07,149 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 18:10:07,440 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 18:10:07,443 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 18:16:05,378 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 18:16:06,231 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 18:16:08,519 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 18:16:09,506 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 18:16:09,507 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 18:16:09,756 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 18:16:14,227 | INFO | aiogram.event | Update id=322903170 is handled. Duration 1578 ms by bot id=8791498759
+2026-03-21 18:16:20,247 | INFO | aiogram.event | Update id=322903171 is handled. Duration 639 ms by bot id=8791498759
+2026-03-21 18:16:30,883 | INFO | aiogram.event | Update id=322903172 is handled. Duration 718 ms by bot id=8791498759
+2026-03-21 18:16:31,839 | INFO | aiogram.event | Update id=322903173 is handled. Duration 718 ms by bot id=8791498759
+2026-03-21 18:16:33,276 | INFO | aiogram.event | Update id=322903174 is handled. Duration 593 ms by bot id=8791498759
+2026-03-21 18:16:34,772 | INFO | aiogram.event | Update id=322903175 is handled. Duration 718 ms by bot id=8791498759
+2026-03-21 18:16:44,416 | INFO | aiogram.event | Update id=322903176 is handled. Duration 906 ms by bot id=8791498759
+2026-03-21 19:18:56,159 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 19:18:56,354 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 19:18:56,814 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 19:18:56,819 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 19:19:44,165 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 19:19:46,368 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 19:19:49,629 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 19:19:56,772 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 19:19:56,773 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 19:19:57,088 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 19:20:13,490 | INFO | aiogram.event | Update id=322903177 is handled. Duration 14469 ms by bot id=8791498759
+2026-03-21 19:20:13,717 | INFO | aiogram.event | Update id=322903178 is handled. Duration 6889 ms by bot id=8791498759
+2026-03-21 19:21:01,134 | INFO | aiogram.event | Update id=322903179 is handled. Duration 1702 ms by bot id=8791498759
+2026-03-21 19:21:15,906 | INFO | aiogram.event | Update id=322903180 is handled. Duration 2734 ms by bot id=8791498759
+2026-03-21 19:21:36,253 | INFO | aiogram.event | Update id=322903181 is handled. Duration 6484 ms by bot id=8791498759
+2026-03-21 19:21:45,022 | INFO | aiogram.event | Update id=322903182 is handled. Duration 1577 ms by bot id=8791498759
+2026-03-21 19:21:59,000 | INFO | aiogram.event | Update id=322903183 is handled. Duration 7561 ms by bot id=8791498759
+2026-03-21 19:22:04,926 | INFO | aiogram.event | Update id=322903184 is handled. Duration 1922 ms by bot id=8791498759
+2026-03-21 19:37:17,453 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 19:37:17,756 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 19:37:18,393 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 19:37:18,405 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 19:43:36,987 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 19:43:37,995 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 19:43:41,225 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 1, 'sessions_archived': 0}
+2026-03-21 19:43:43,773 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 19:43:43,775 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 19:43:44,091 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 19:44:04,153 | INFO | aiogram.event | Update id=322903185 is handled. Duration 4563 ms by bot id=8791498759
+2026-03-21 19:44:38,091 | INFO | telethon.client.updates | Cannot get difference since the account is not logged in: SessionRevokedError
+2026-03-21 19:44:38,118 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 19:44:38,127 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 19:45:15,857 | INFO | aiogram.event | Update id=322903186 is handled. Duration 2094 ms by bot id=8791498759
+2026-03-21 19:45:25,572 | INFO | aiogram.event | Update id=322903187 is handled. Duration 3656 ms by bot id=8791498759
+2026-03-21 19:45:31,945 | INFO | aiogram.event | Update id=322903188 is handled. Duration 2875 ms by bot id=8791498759
+2026-03-21 19:45:36,525 | INFO | aiogram.event | Update id=322903189 is handled. Duration 2938 ms by bot id=8791498759
+2026-03-21 19:45:41,430 | INFO | aiogram.event | Update id=322903190 is handled. Duration 3265 ms by bot id=8791498759
+2026-03-21 19:45:46,800 | INFO | aiogram.event | Update id=322903191 is handled. Duration 1203 ms by bot id=8791498759
+2026-03-21 19:45:49,746 | INFO | aiogram.event | Update id=322903192 is handled. Duration 1906 ms by bot id=8791498759
+2026-03-21 19:46:02,189 | INFO | aiogram.event | Update id=322903193 is handled. Duration 827 ms by bot id=8791498759
+2026-03-21 19:46:03,862 | INFO | aiogram.event | Update id=322903194 is handled. Duration 625 ms by bot id=8791498759
+2026-03-21 19:46:27,855 | INFO | aiogram.event | Update id=322903195 is handled. Duration 2016 ms by bot id=8791498759
+2026-03-21 19:46:33,951 | INFO | aiogram.event | Update id=322903196 is handled. Duration 1000 ms by bot id=8791498759
+2026-03-21 19:46:39,766 | INFO | aiogram.event | Update id=322903197 is handled. Duration 1452 ms by bot id=8791498759
+2026-03-21 19:46:44,379 | INFO | aiogram.event | Update id=322903198 is handled. Duration 1014 ms by bot id=8791498759
+2026-03-21 19:46:52,028 | INFO | aiogram.event | Update id=322903199 is handled. Duration 4390 ms by bot id=8791498759
+2026-03-21 19:47:05,021 | INFO | aiogram.event | Update id=322903200 is handled. Duration 2484 ms by bot id=8791498759
+2026-03-21 19:47:47,882 | INFO | aiogram.event | Update id=322903201 is handled. Duration 281 ms by bot id=8791498759
+2026-03-21 20:02:14,537 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 20:02:14,562 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 20:02:14,949 | INFO | telethon.network.mtprotosender | Not disconnecting (already have no connection)
+2026-03-21 20:02:35,778 | ERROR | asyncio | Task exception was never retrieved
+future: <Task finished name='Task-459' coro=<TelegramBaseClient._disconnect_coro() done, defined at C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\telegrambaseclient.py:702> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1863, in _run_once
+    event_list = self._selector.select(timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 439, in select
+    self._poll(timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 788, in _poll
+    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 614, in <module>
+    await message.answer("Доступ запрещен")
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 47, in run
+    _cancel_all_tasks(loop)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 63, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1899, in _run_once
+    handle._run()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\telegrambaseclient.py", line 734, in _disconnect_coro
+    self.session.close()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sessions\sqlite.py", line 261, in close
+    self._conn.commit()
+KeyboardInterrupt
+2026-03-21 20:06:30,572 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 20:06:34,025 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 20:09:18,923 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 20:09:20,673 | INFO | telethon.network.mtprotosender | Connecting to 91.108.56.130:443/TcpFull...
+2026-03-21 20:09:21,543 | INFO | telethon.network.mtprotosender | Connection to 91.108.56.130:443/TcpFull complete!
+2026-03-21 20:09:24,996 | INFO | telethon.network.mtprotosender | Disconnecting from 91.108.56.130:443/TcpFull...
+2026-03-21 20:09:24,999 | INFO | telethon.network.mtprotosender | Disconnection from 91.108.56.130:443/TcpFull complete!
+2026-03-21 20:09:25,782 | INFO | controller | Engine initialized: {'sessions_total': 1, 'sessions_live': 0, 'sessions_archived': 1}
+2026-03-21 20:09:27,277 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 20:09:27,277 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 20:09:27,552 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 20:10:01,913 | INFO | aiogram.event | Update id=322903202 is not handled. Duration 907 ms by bot id=8791498759
+2026-03-21 20:10:30,800 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 20:10:30,871 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 20:10:39,826 | ERROR | asyncio | Task exception was never retrieved
+future: <Task finished name='Task-31' coro=<Dispatcher._process_update() done, defined at C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py:296> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 130, in _connect
+    await connector.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_connectors\http_async.py", line 37, in connect
+    reply: http.ConnectReply = conn.receive(data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_protocols\http.py", line 148, in receive
+    return ConnectReply.loads(data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_protocols\http.py", line 137, in loads
+    raise ReplyError(msg, error_code=status_code)
+python_socks._protocols.errors.ReplyError: 502 Bad Gateway
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 72, in _wrap_create_connection
+    return await self._connect_via_proxy(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 135, in _connect_via_proxy
+    stream = await proxy.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 79, in connect
+    return await self._connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 143, in _connect
+    raise ProxyError(e, error_code=e.error_code)
+python_socks._errors.ProxyError: 502 Bad Gateway
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 266, in cmd_start
+    await send_banner(
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 139, in send_banner
+    await message.answer_photo(FSInputFile(str(banner_path)), caption=text, reply_markup=kb)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 181, in make_request
+    async with session.post(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 1510, in __aenter__
+    self._resp: _RetType = await self._coro
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 779, in _request
+    resp = await handler(req)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 734, in _connect_and_send_request
+    conn = await self._connector.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 672, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 1239, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 1580, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 83, in _wrap_create_connection
+    raise ProxyError(str(e), error_code=e.error_code) from e
+aiohttp_socks._errors.ProxyError: 502 Bad Gateway
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 646, in <module>
+    asyncio.run(main())
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1899, in _run_once
+    handle._run()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 315, in _process_update
+    loggers.event.exception(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 1512, in exception
+    self.error(msg, *args, exc_info=exc_info, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 1506, in error
+    self._log(ERROR, msg, args, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 1624, in _log
+    self.handle(record)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 1634, in handle
+    self.callHandlers(record)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 1696, in callHandlers
+    hdlr.handle(record)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 968, in handle
+    self.emit(record)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 1218, in emit
+    StreamHandler.emit(self, record)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 1100, in emit
+    msg = self.format(record)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 943, in format
+    return fmt.format(record)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 686, in format
+    record.exc_text = self.formatException(record.exc_info)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\logging\__init__.py", line 636, in formatException
+    traceback.print_exception(ei[0], ei[1], tb, None, sio)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\traceback.py", line 119, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\traceback.py", line 502, in __init__
+    self.stack = StackSummary.extract(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\traceback.py", line 383, in extract
+    f.line
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\traceback.py", line 306, in line
+    self._line = linecache.getline(self.filename, self.lineno)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\linecache.py", line 30, in getline
+    lines = getlines(filename, module_globals)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\linecache.py", line 46, in getlines
+    return updatecache(filename, module_globals)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\linecache.py", line 136, in updatecache
+    with tokenize.open(fullname) as fp:
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\tokenize.py", line 394, in open
+    buffer = _builtin_open(filename, 'rb')
+KeyboardInterrupt
+2026-03-21 20:13:35,094 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-21 20:13:37,981 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 20:13:37,982 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 20:13:38,243 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 20:13:40,689 | INFO | aiogram.event | Update id=322903204 is handled. Duration 2046 ms by bot id=8791498759
+2026-03-21 20:13:40,691 | INFO | aiogram.event | Update id=322903203 is handled. Duration 2094 ms by bot id=8791498759
+2026-03-21 20:13:45,170 | INFO | aiogram.event | Update id=322903205 is handled. Duration 389 ms by bot id=8791498759
+2026-03-21 20:13:50,002 | INFO | aiogram.event | Update id=322903206 is handled. Duration 936 ms by bot id=8791498759
+2026-03-21 20:14:08,873 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 64] Указанное сетевое имя более недоступно
+2026-03-21 20:14:08,966 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8791498759)
+2026-03-21 20:14:26,373 | INFO | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8791498759)
+2026-03-21 20:14:29,633 | INFO | aiogram.event | Update id=322903207 is not handled. Duration 3266 ms by bot id=8791498759
+2026-03-21 20:14:29,634 | ERROR | aiogram.event | Cause exception while process update id=322903207 by bot id=8791498759
+ProxyError: 502 Bad Gateway
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 130, in _connect
+    await connector.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_connectors\http_async.py", line 37, in connect
+    reply: http.ConnectReply = conn.receive(data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_protocols\http.py", line 148, in receive
+    return ConnectReply.loads(data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_protocols\http.py", line 137, in loads
+    raise ReplyError(msg, error_code=status_code)
+python_socks._protocols.errors.ReplyError: 502 Bad Gateway
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 72, in _wrap_create_connection
+    return await self._connect_via_proxy(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 135, in _connect_via_proxy
+    stream = await proxy.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 79, in connect
+    return await self._connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 143, in _connect
+    raise ProxyError(e, error_code=e.error_code)
+python_socks._errors.ProxyError: 502 Bad Gateway
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 311, in cb_profile
+    await send_banner(callback.message, "profile", text, kb_profile(admin_user))
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 139, in send_banner
+    await message.answer_photo(FSInputFile(str(banner_path)), caption=text, reply_markup=kb)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 181, in make_request
+    async with session.post(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 1510, in __aenter__
+    self._resp: _RetType = await self._coro
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 779, in _request
+    resp = await handler(req)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 734, in _connect_and_send_request
+    conn = await self._connector.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 672, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 1239, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 1580, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 83, in _wrap_create_connection
+    raise ProxyError(str(e), error_code=e.error_code) from e
+aiohttp_socks._errors.ProxyError: 502 Bad Gateway
+2026-03-21 20:14:45,687 | INFO | aiogram.event | Update id=322903208 is not handled. Duration 3265 ms by bot id=8791498759
+2026-03-21 20:14:45,688 | ERROR | aiogram.event | Cause exception while process update id=322903208 by bot id=8791498759
+ProxyError: 502 Bad Gateway
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 130, in _connect
+    await connector.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_connectors\http_async.py", line 37, in connect
+    reply: http.ConnectReply = conn.receive(data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_protocols\http.py", line 148, in receive
+    return ConnectReply.loads(data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\_protocols\http.py", line 137, in loads
+    raise ReplyError(msg, error_code=status_code)
+python_socks._protocols.errors.ReplyError: 502 Bad Gateway
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 72, in _wrap_create_connection
+    return await self._connect_via_proxy(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 135, in _connect_via_proxy
+    stream = await proxy.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 79, in connect
+    return await self._connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\python_socks\async_\asyncio\v2\_proxy.py", line 143, in _connect
+    raise ProxyError(e, error_code=e.error_code)
+python_socks._errors.ProxyError: 502 Bad Gateway
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 311, in cb_profile
+    await send_banner(callback.message, "profile", text, kb_profile(admin_user))
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 139, in send_banner
+    await message.answer_photo(FSInputFile(str(banner_path)), caption=text, reply_markup=kb)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 181, in make_request
+    async with session.post(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 1510, in __aenter__
+    self._resp: _RetType = await self._coro
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 779, in _request
+    resp = await handler(req)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\client.py", line 734, in _connect_and_send_request
+    conn = await self._connector.connect(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 672, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 1239, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp\connector.py", line 1580, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiohttp_socks\connector.py", line 83, in _wrap_create_connection
+    raise ProxyError(str(e), error_code=e.error_code) from e
+aiohttp_socks._errors.ProxyError: 502 Bad Gateway
+2026-03-21 20:15:02,336 | INFO | aiogram.event | Update id=322903209 is not handled. Duration 12094 ms by bot id=8791498759
+2026-03-21 20:15:02,337 | ERROR | aiogram.event | Cause exception while process update id=322903209 by bot id=8791498759
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 395, in cb_add_session
+    await callback.answer()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 189, in make_request
+    response = self.check_response(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-03-21 20:15:32,964 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 20:15:32,964 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-21 20:17:24,363 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-21 20:17:26,882 | INFO | controller | Bot API is reachable. Logged in as @NyawkaReporterBot
+2026-03-21 20:17:26,883 | INFO | aiogram.dispatcher | Start polling
+2026-03-21 20:17:27,180 | INFO | aiogram.dispatcher | Run polling for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 20:17:50,634 | INFO | aiogram.event | Update id=322903210 is handled. Duration 3328 ms by bot id=8791498759
+2026-03-21 20:17:54,577 | INFO | aiogram.event | Update id=322903211 is handled. Duration 1079 ms by bot id=8791498759
+2026-03-21 20:18:04,502 | INFO | aiogram.event | Update id=322903212 is handled. Duration 4217 ms by bot id=8791498759
+2026-03-21 20:18:08,848 | INFO | aiogram.event | Update id=322903213 is handled. Duration 2219 ms by bot id=8791498759
+2026-03-21 20:18:29,411 | INFO | aiogram.event | Update id=322903214 is not handled. Duration 17110 ms by bot id=8791498759
+2026-03-21 20:18:29,412 | ERROR | aiogram.event | Cause exception while process update id=322903214 by bot id=8791498759
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\krite\Desktop\MyProjects\SnoserByCursor\main.py", line 451, in cb_moderation
+    await callback.answer()
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\aiohttp.py", line 189, in make_request
+    response = self.check_response(
+  File "C:\Users\krite\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-03-21 20:18:32,116 | INFO | aiogram.event | Update id=322903215 is handled. Duration 2921 ms by bot id=8791498759
+2026-03-21 20:18:41,020 | INFO | aiogram.event | Update id=322903216 is handled. Duration 1141 ms by bot id=8791498759
+2026-03-21 20:18:48,410 | INFO | aiogram.event | Update id=322903217 is handled. Duration 1203 ms by bot id=8791498759
+2026-03-21 20:19:31,478 | INFO | aiogram.event | Update id=322903218 is handled. Duration 796 ms by bot id=8791498759
+2026-03-21 20:19:39,340 | INFO | aiogram.event | Update id=322903219 is handled. Duration 889 ms by bot id=8791498759
+2026-03-21 20:19:42,936 | INFO | aiogram.event | Update id=322903220 is handled. Duration 703 ms by bot id=8791498759
+2026-03-21 20:20:01,286 | INFO | aiogram.event | Update id=322903221 is handled. Duration 1688 ms by bot id=8791498759
+2026-03-21 20:20:07,623 | INFO | aiogram.event | Update id=322903222 is handled. Duration 3592 ms by bot id=8791498759
+2026-03-21 20:20:28,051 | INFO | aiogram.dispatcher | Polling stopped for bot @NyawkaReporterBot id=8791498759 - 'UwU reporter'
+2026-03-21 20:20:28,052 | INFO | aiogram.dispatcher | Polling stopped
+2026-03-22 15:14:31,417 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 15:14:36,250 | WARNING | controller | Bot API proxy failed (ProxyError). Switching to local connection...
+2026-03-22 15:14:58,388 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 2s.
+2026-03-22 15:15:19,739 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 4s.
+2026-03-22 15:40:07,930 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 15:41:08,469 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 2s.
+2026-03-22 15:41:29,812 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 4s.
+2026-03-22 15:49:30,622 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 15:49:50,285 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 2s.
+2026-03-22 15:50:11,648 | WARNING | controller | Bot API network error (TelegramNetworkError). Retry in 4s.
+2026-03-22 15:58:30,307 | INFO | controller | Bot API: используется BOT_API_PROXY из .env (таймаут 120s)
+2026-03-22 15:58:30,465 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 16:05:02,274 | INFO | controller | Bot API: только прямое подключение (без прокси), таймаут 120s
+2026-03-22 16:05:02,832 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 16:06:11,877 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 1, пауза 2s. Прокси для бота не используется.
+2026-03-22 16:06:33,273 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 2, пауза 4s. Прокси для бота не используется.
+2026-03-22 16:07:06,704 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 3, пауза 8s. Прокси для бота не используется.
+2026-03-22 16:07:49,405 | INFO | controller | Bot API: только прямое подключение (без прокси), таймаут 120s
+2026-03-22 16:07:49,831 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 16:08:09,216 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 1, пауза 2s. Прокси для бота не используется.
+2026-03-22 16:08:30,566 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 2, пауза 4s. Прокси для бота не используется.
+2026-03-22 16:08:53,909 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 3, пауза 8s. Прокси для бота не используется.
+2026-03-22 16:09:21,285 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 4, пауза 16s. Прокси для бота не используется.
+2026-03-22 16:09:56,627 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 5, пауза 32s. Прокси для бота не используется.
+2026-03-22 16:10:48,109 | WARNING | controller | Ошибка сети Bot API (TelegramNetworkError). Попытка 6, пауза 64s. Прокси для бота не используется.
+2026-03-22 16:12:32,461 | INFO | controller | Bot API: прямое подключение, таймаут 120s, IPv4-only=True
+2026-03-22 16:12:32,914 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 16:12:54,257 | WARNING | controller | Ошибка сети Bot API: TelegramNetworkError | HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Удаленный хост принудительно разорвал существующее подключение]. Попытка 1, пауза 2s. Это не баг бота: ПК не достучался до api.telegram.org (блокировка/фаервол/DNS/маршрут). Проверка: python check_telegram.py. На Windows попробуйте BOT_API_FORCE_IPV4=1 в .env.
+2026-03-22 17:00:28,356 | INFO | controller | Bot API: прямое подключение, таймаут 120s, IPv4-only=True
+2026-03-22 17:00:28,658 | INFO | controller | Engine initialized: {'sessions_total': 0, 'sessions_live': 0, 'sessions_archived': 0}
+2026-03-22 17:00:48,461 | WARNING | controller | Ошибка сети Bot API: TelegramNetworkError | HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Удаленный хост принудительно разорвал существующее подключение]. Попытка 1, пауза 2s. ПК не достучался до api.telegram.org (блокировка/фаервол/DNS). Проверка: python check_telegram.py
+2026-03-22 17:01:09,813 | WARNING | controller | Ошибка сети Bot API: TelegramNetworkError | HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Удаленный хост принудительно разорвал существующее подключение]. Попытка 2, пауза 4s. ПК не достучался до api.telegram.org (блокировка/фаервол/DNS). Проверка: python check_telegram.py
+2026-03-22 17:01:48,212 | WARNING | controller | Ошибка сети Bot API: TelegramNetworkError | HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Удаленный хост принудительно разорвал существующее подключение]. Попытка 3, пауза 8s. ПК не достучался до api.telegram.org (блокировка/фаервол/DNS). Проверка: python check_telegram.py
+2026-03-22 17:02:15,628 | WARNING | controller | Ошибка сети Bot API: TelegramNetworkError | HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Удаленный хост принудительно разорвал существующее подключение]. Попытка 4, пауза 16s. ПК не достучался до api.telegram.org (блокировка/фаервол/DNS). Проверка: python check_telegram.py
+2026-03-22 17:02:50,997 | WARNING | controller | Ошибка сети Bot API: TelegramNetworkError | HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Удаленный хост принудительно разорвал существующее подключение]. Попытка 5, пауза 32s. ПК не достучался до api.telegram.org (блокировка/фаервол/DNS). Проверка: python check_telegram.py
+2026-03-22 17:03:42,342 | WARNING | controller | Ошибка сети Bot API: TelegramNetworkError | HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Удаленный хост принудительно разорвал существующее подключение]. Попытка 6, пауза 64s. ПК не достучался до api.telegram.org (блокировка/фаервол/DNS). Проверка: python check_telegram.py
